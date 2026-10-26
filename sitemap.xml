@@ -55,4 +55,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://mfujun2025.github.io/dingzi/articles/jinshaji-jingzi-qinxi-baoyang-quanliucheng.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
