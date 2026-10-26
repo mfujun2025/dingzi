@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mfujun2025.github.io/dingzi/sitemap.xml
+Sitemap: https://r528.com/sitemap.xml
