@@ -168,19 +168,19 @@ def article_html(a, index, total):
 <script type="application/ld+json">
 {ldjson}
 </script>
-<link rel="stylesheet" href="/dingzi/css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 
 <header class="site-header">
   <div class="container">
-    <a class="logo" href="/dingzi/">锭子清洗加油机 <small>AU521F 专业销售</small></a>
+    <a class="logo" href="../index.html">锭子清洗加油机 <small>AU521F 专业销售</small></a>
     <nav class="nav">
-      <a href="/dingzi/">首页</a>
-      <a href="/dingzi/product.html">产品详情</a>
-      <a href="/dingzi/application.html">应用领域</a>
-      <a href="/dingzi/articles/index.html">资讯文章</a>
-      <a href="/dingzi/contact.html">联系我们</a>
+      <a href="../index.html">首页</a>
+      <a href="../product.html">产品详情</a>
+      <a href="../application.html">应用领域</a>
+      <a href="../articles/index.html">资讯文章</a>
+      <a href="../contact.html">联系我们</a>
     </nav>
   </div>
 </header>
@@ -210,7 +210,7 @@ def article_html(a, index, total):
     <ul class="article-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px">
 {related_html}
     </ul>
-    <p style="margin-top:30px"><a class="btn" href="/dingzi/product.html">查看 AU521F 型锭子清洗加油机产品详情 →</a> <a class="btn ghost" href="/dingzi/contact.html" style="margin-left:10px">咨询订购</a></p>
+    <p style="margin-top:30px"><a class="btn" href="../product.html">查看 AU521F 型锭子清洗加油机产品详情 →</a> <a class="btn ghost" href="../contact.html" style="margin-left:10px">咨询订购</a></p>
   </div>
 </section>
 
@@ -218,7 +218,7 @@ def article_html(a, index, total):
   <div class="container">
     <div class="ft-cols">
       <div><h4>产品中心</h4><p>AU521F 型锭子清洗加油机，纺织厂锭子清洗、定量加油的专业辅助设备。</p></div>
-      <div><h4>快速导航</h4><p><a href="/dingzi/">首页</a><br><a href="/dingzi/product.html">产品详情</a><br><a href="/dingzi/application.html">应用领域</a><br><a href="/dingzi/articles/index.html">资讯文章</a><br><a href="/dingzi/contact.html">联系我们</a></p></div>
+      <div><h4>快速导航</h4><p><a href="../index.html">首页</a><br><a href="../product.html">产品详情</a><br><a href="../application.html">应用领域</a><br><a href="../articles/index.html">资讯文章</a><br><a href="../contact.html">联系我们</a></p></div>
       <div><h4>联系方式</h4><p><a href="mailto:548827878@qq.com">548827878@qq.com</a><br>全国范围供货，支持定制特殊锭子尺寸</p></div>
     </div>
     <p class="copy">© 2026 AU521F 型锭子清洗加油机销售中心 · 本站技术参数信息来源于公开行业资料</p>
